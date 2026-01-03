@@ -82,7 +82,7 @@ The morphometric analysis and watershed delineation were carried out using **Arc
 ### Coordinate System Conversion
 - Conversion performed from **Geographic Coordinate System (GCS)** to **Projected Coordinate System (PCS)**.  
 - **From:** WGS 1984 (GCS)  
-- **To:** UTM Zone 45N – WGS 1984  
+- **To:** PCS UTM Zone 45N – WGS 1984  
 
 This conversion is required for accurate **length, area, and statistical calculations**.
 
